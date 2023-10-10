@@ -46,5 +46,3 @@ This project is the result of the collaborative efforts of a three-member team, 
 - **Deployment**: The application is deployed on a cloud platform like Heroku or Netlify for easy access.
 
 "Enigma: Sound Studio" showcases the team's ability to create a modern, feature-rich web application using cutting-edge technologies, making it an exciting and practical project for their college Web Stack Development course. 🎓🎉
-
-Feel free to copy and paste this formatted README content into your project's README.md file, and customize it further to your liking.
